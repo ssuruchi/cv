@@ -1,0 +1,79 @@
+/**********TAG SELECTOR**********/
+body {
+  margin: 0;
+  text-align: center;
+  font-family: "Merriweather", sans-serif;
+}
+
+h1 {
+  font-family: "Sacramento", cursive;
+  font-size: 3rem;
+}
+
+h2 {
+  font-family: "Montserrat", sans-serif;
+}
+
+h3 {
+  font-family: "Montserrat", sans-serif;
+}
+
+p {
+  font-family: "Montserrat", cursive;
+}
+
+/**********CLASS SELECTOR**********/
+.top-container {
+  background-color: #E4F9F5;
+  padding-top: 100px;
+  position: relative;
+  margin: 0 auto 0 auto;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.mountain{
+  width: 40%;
+  height: justify;
+}
+
+.skill-row {
+  margin: 70px auto 100px auto;
+  width: 50%;
+  text-align: left;
+  line-height: 1.5;
+}
+
+.dataimg{
+  width: 25%;
+  float: left;
+  padding-right: 10px
+}
+
+.comimg{
+  width: 25%;
+  float: right;
+  padding-left: 10px;
+}
+
+.middle-container {
+  padding-top: 20px;
+}
+
+.bottom-container {}
+
+.mypic {
+  border-radius: 100%;
+  width: 25%;
+  height: justify;
+}
